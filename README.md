@@ -8,7 +8,7 @@
 
 <div align="center"> ㅤ </div>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=19&pause=1000&color=cabee8&width=400&lines=I+CURL+UP+TO+DIE+INSIDE+YOUR+CHEST" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&pause=1000&color=CABEE8&center=true&width=500&lines=SHE+WHISPERS+WHILE+IM+SLEEPING;%22I+LOVE+YOU+WHEN+YOU+SMILE%22" alt="Typing SVG" /></a>
 
   <details>
   <summary>
