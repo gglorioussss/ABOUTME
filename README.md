@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://file.garden/alppm9qplE9QfnlS/Untitled421_20260727123112.png" /></div>
+
 <div id="header" align="center">
   
 ![](https://komarev.com/ghpvc/?username=realdustsans&color=c593ea&label=˖Ი𐑼ֶָ⠀ROTTEN+RABBITS⠀&style=plastic&base=2900)
@@ -102,3 +105,5 @@
   </a>
 </p>
 
+<div align="center">
+<img src="https://file.garden/alppm9qplE9QfnlS/Untitled421_20260727123112.png" /></div>
