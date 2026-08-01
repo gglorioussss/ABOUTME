@@ -23,7 +23,7 @@
 
   <details>
   <summary>
-    <b>　　｡　　𝄞　　info </b>
+     ${{\color{#dfd7ec}{\texttt{　　｡　　𝄞　　info }}}}$
   </summary>
 
 𓈒 ⠀hi im soren, zombi/axel collectively. any nicknames is fine!
@@ -44,7 +44,7 @@
 
   <details>
   <summary>
-    <b>　　｡　　𝄞　　byi </b>
+    ${{\color{#e7dbfd}{\texttt{　　｡　　𝄞　　byi }}}}$
   </summary>
 
 𓈒 ⠀⠀in recovery , iwc at all times unless friends.
@@ -59,7 +59,7 @@
 
   <details>
   <summary>
-    <b>　　｡　　𝄞　　dni </b>
+    ${{\color{#dfd7ec}{\texttt{　　｡　　𝄞　　dni }}}}$
   </summary>
 
 𓈒 ⠀⠀<a href="https://dni-criteria.carrd.co/"> basic dni</a> + under 15
@@ -78,7 +78,7 @@
 
   <details>
   <summary>
-    <b>　　｡　　𝄞　　more </b>
+    ${{\color{#e7dbfd}{\texttt{　　｡　　𝄞　　more }}}}$
   </summary>
 
 𓈒⠀⠀ we have really bad memory, sorry if we forget you or something
