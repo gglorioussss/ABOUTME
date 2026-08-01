@@ -26,19 +26,19 @@
      ${{\color{#dfd7ec}{\texttt{　　｡　　𝄞　　info }}}}$
   </summary>
 
-𓈒 ⠀hi im soren, zombi/axel collectively. any nicknames is fine!
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀hi im soren, zombi/axel collectively. any nicknames is fine!}}}}$ <br>
 
-𓈒 ⠀bodily 17 years old , he/they pronouns only
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀bodily 17 years old , he/they pronouns only}}}}$ <br>
 
-𓈒 ⠀medically recognized P-DID system , most pages is about host 
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀medically recognized P-DID system , most pages is about host }}}}$ <br>
 
-𓈒 ⠀taken by our lovely partner, hi augustine!! 7.19.26
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀taken by our lovely partner, hi augustine!! 7.19.26}}}}$ <br>
 
-𓈒 ⠀if im on ponytown im prob offtab, so it's best to whisper me. there's a HIGH chance i will respond late.
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀if im on ponytown im prob offtab, so it's best to whisper me. there's a HIGH chance i will respond late.}}}}$ <br>
 
-𓈒 ⠀c+h is heavily enc , i love sitting with people!! 99% of the time, im at UT area
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀c+h is heavily enc , i love sitting with people!! 99% of the time, im at UT area}}}}$ <br>
 
-𓈒 ⠀we switch between using plural and singular
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀we switch between using plural and singular, refer to us as one tho}}}}$ <br>
 
 </details>
 
@@ -47,13 +47,13 @@
     ${{\color{#e7dbfd}{\texttt{　　｡　　𝄞　　byi }}}}$
   </summary>
 
-𓈒 ⠀⠀in recovery , iwc at all times unless friends.
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀in recovery , iwc at all times unless friends.}}}}$ <br>
 
-𓈒⠀⠀ i temp block people a lot, just be chill and you'll be fine
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒⠀⠀ i temp block people a lot, just be chill and you'll be fine}}}}$ <br>
 
-𓈒⠀⠀ im a quiet person when u first meet me, i promise im talkative!!
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒⠀⠀ im a quiet person when u first meet me, i promise im talkative!!}}}}$ <br>
 
-𓈒 ⠀⠀im a rlly affectionate person touch is like my love language sorry tell if uncomfy
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀im a rlly affectionate person touch is like my love language sorry tell if uncomfy}}}}$ <br>
 
 </details>
 
@@ -64,15 +64,15 @@
 
 𓈒 ⠀⠀<a href="https://dni-criteria.carrd.co/"> basic dni</a> + under 15
 
-𓈒 ⠀⠀senstive people n stuff like that
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀⠀senstive people n stuff like that}}}}$ <br>
 
-𓈒 ⠀⠀IWEC roleplayers + delusional yumeshippers 
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀⠀IWEC roleplayers + UT/DT fandom + delusional yumeshippers }}}}$ <br>
 
-𓈒 ⠀⠀people i used to be friends with
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀⠀people i used to be friends with}}}}$ <br>
 
-𓈒⠀⠀ rlly flirty people , it gets to a point i js get uncomfy
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒⠀⠀ rlly flirty people , it gets to a point i js get uncomfy}}}}$ <br>
 
-𓈒 ⠀⠀yaoi/yuri fetishizers 
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀⠀yaoi/yuri fetishizers }}}}$ <br>
 
 </details>
 
@@ -81,17 +81,17 @@
     ${{\color{#e7dbfd}{\texttt{　　｡　　𝄞　　more }}}}$
   </summary>
 
-𓈒⠀⠀ we have really bad memory, sorry if we forget you or something
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒⠀⠀ we have really bad memory, sorry if we forget you or something}}}}$ <br>
 
-𓈒⠀⠀ communicate with us if ANY of us make u uncomfortable, please!
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒⠀⠀ communicate with us if ANY of us make u uncomfortable, please!}}}}$ <br>
 
-𓈒 ⠀⠀im a kind person in general, don't be afraid to come up n interact w/ me
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀im a kind person in general, don't be afraid to come up n interact w/ me}}}}$ <br>
 
-𓈒 ⠀⠀i act mean as a joke, just tell me if you dont like that! 
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀i act mean as a joke, just tell me if you dont like that! }}}}$ <br>
 
-𓈒 ⠀⠀ask any questions on ata if you have any shrugs
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀ask any questions on ata if you have any shrugs}}}}$ <br>
 
-𓈒 ⠀⠀if u ever need to contact us all our socials are realdustsans/realdustsanss ok thanks
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀if u ever need to contact us all our socials are realdustsans/realdustsanss ok thanks}}}}$ <br>
 
 </details>
 
