@@ -97,7 +97,11 @@
 
 <div align="center">
 
-[@pt-walk-of-fame](https://github.com/pt-walk-of-fame)⠀⠀[@title-town](https://github.com/title-town)⠀⠀[@pt-of-awesomeness](https://github.com/pt-of-awesomeness)⠀⠀[@fans-town](https://github.com/fans-town)⠀⠀[@pt-hall-of-media](https://github.com/pt-hall-of-media)⠀⠀[@pt-fashion](https://github.com/pt-fashion)⠀⠀♡
+[@pt-walk-of-fame](https://github.com/pt-walk-of-fame)⠀⠀[@title-town](https://github.com/title-town)⠀⠀[@pt-of-awesomeness](https://github.com/pt-of-awesomeness)
+⠀⠀
+<div align="center">
+
+[@fans-town](https://github.com/fans-town)⠀⠀[@pt-hall-of-media](https://github.com/pt-hall-of-media)⠀⠀[@pt-fashion](https://github.com/pt-fashion)⠀⠀[@pt-contributers](https://github.com/pt-contributers)⠀⠀♡
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314gd5mejisv4zrkxvzhkbuf6hqm&redirect=true">
