@@ -36,7 +36,7 @@ ${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀taken by our lovely partner, hi au
 
 ${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀if im on ponytown im prob offtab, so it's best to whisper me. there's a HIGH chance i will respond late.}}}}$ <br>
 
-${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀c+h is heavily enc , i love sitting with people!! 99% of the time, im at UT area}}}}$ <br>
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀c+h is heavily enc , i love sitting with people!! most of the time, im at UT area}}}}$ <br>
 
 ${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀we switch between using plural and singular, refer to us as one tho}}}}$ <br>
 
