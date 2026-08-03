@@ -101,7 +101,7 @@ ${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀if u ever need to contact us al
 ⠀⠀
 <div align="center">
 
-[@fans-town](https://github.com/fans-town)⠀⠀[@pt-hall-of-media](https://github.com/pt-hall-of-media)⠀⠀[@pt-fashion](https://github.com/pt-fashion)⠀⠀[@pt-contributers](https://github.com/pt-contributers)⠀⠀♡
+[@fans-town](https://github.com/fans-town)⠀⠀[@pt-hall-of-media](https://github.com/pt-hall-of-media)⠀⠀[@pt-fashion](https://github.com/pt-fashion)⠀⠀[@pt-contributers](https://github.com/pt-contributers)⠀⠀[@pt-medals](https://github.com/pt-medals)⠀⠀♡
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314gd5mejisv4zrkxvzhkbuf6hqm&redirect=true">
