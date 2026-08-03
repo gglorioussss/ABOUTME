@@ -97,7 +97,7 @@ ${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀if u ever need to contact us al
 
 <div align="center">
 
-[@pt-walk-of-fame](https://github.com/pt-walk-of-fame)⠀⠀[@title-town](https://github.com/title-town)⠀⠀[@pt-of-awesomeness](https://github.com/pt-of-awesomeness)⠀⠀[@pt-nominations](https://github.com/pt-nominations)
+[@pt-walk-of-fame](https://github.com/pt-walk-of-fame)⠀⠀[@title-town](https://github.com/title-town)⠀⠀[@pt-of-awesomeness](https://github.com/pt-of-awesomeness)⠀⠀[@pt-nominations](https://github.com/pt-nominations)⠀⠀[@ponychievements](https://github.com/ponychievements)
 ⠀⠀
 <div align="center">
 
