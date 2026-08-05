@@ -93,6 +93,8 @@ ${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀ask any questions on ata if you
 
 ${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀if u ever need to contact us all our socials are realdustsans/realdustsanss ok thanks}}}}$ <br>
 
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀don't rp with me js because im a murder sans introject}}}}$ <br>
+
 </details>
 
 <div align="center">
