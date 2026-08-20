@@ -95,6 +95,8 @@ ${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀if u ever need to contact us al
 
 ${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀don't rp with me js because im a murder sans introject}}}}$ <br>
 
+${{\color{#e7dbfd}\normalsize{\texttt{𓈒 ⠀⠀im not that active on ponytown anymore dont think i left u my pt friends i love u ok}}}}$ <br>
+
 </details>
 
 <div align="center">
