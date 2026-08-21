@@ -32,7 +32,7 @@ ${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀bodily 17 years old , he/they pron
 
 ${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀medically recognized P-DID system , most pages is about host }}}}$ <br>
 
-${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀taken by our lovely partner, hi augustine!! 7.19.26}}}}$ <br>
+${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀taken by our lovely qpp, hi julius!! 8.20.26}}}}$ <br>
 
 ${{\color{#dfd7ec}\normalsize{\texttt{𓈒 ⠀if im on ponytown im prob offtab, so it's best to whisper me. there's a HIGH chance i will respond late.}}}}$ <br>
 
